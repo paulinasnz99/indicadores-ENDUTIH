@@ -5,6 +5,6 @@ El script en este código está creado para verificar los cuadros del estudio de
 El estudio de Estrategias para cerrar las brechas digitales en México es de autoría de la Dra. Sayuri Adriana Koike Quintanar y se puede encontrar en el siguiente enlace: https://centrodeestudios.ift.org.mx/admin/files/estudios/1706294645.pdf
 
 ## ENDUTIH
-Los datos abiertos utilizados en este proyecto también pueden ser encontrados en el sitio web del INEGI:
+Los datos abiertos utilizados en este proyecto pueden ser encontrados en el sitio web del INEGI:
 * Datos del 2022: https://www.inegi.org.mx/programas/dutih/2022/
 * Datos del 2021: https://www.inegi.org.mx/programas/dutih/2021/
